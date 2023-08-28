@@ -1,0 +1,19 @@
+ Here's a table illustrating the test cases for the Medical Store Inventory Management program:
+
+| Test Case | Description          | Input                                                                          | Expected Output                                       |
+|-----------|----------------------|--------------------------------------------------------------------------------|-------------------------------------------------------|
+| 1         | Add Medicine         | ID: 101, Name: Paracetamol, Price: 5.00, Quantity: 50                          | Medicine added successfully!                          |
+| 2         | Display Medicines    | N/A                                                                            | List of medicines displayed                           |
+| 3         | Modify Medicine      | Medicine ID: 101, New Name: Acetaminophen, New Price: 6.00, New Quantity: 60   | Medicine modified successfully!                       |
+| 4         | Delete Medicine      | Medicine ID: 101                                                               | Medicine found and deleted.                           |
+| 5         | Add Supplier         | ID: 201, Name: ABC Pharma, Contact: 1234567890                                 | Supplier added successfully!                          |
+| 6         | Display Suppliers    | N/A                                                                            | List of suppliers displayed                           |
+| 7         | Modify Supplier      | Supplier ID: 201, New Name: XYZ Pharmaceuticals, New Contact: 9876543210       | Supplier details modified successfully!               |
+| 8         | Delete Supplier      | Supplier ID: 201                                                               | Supplier found and deleted.                           |
+| 9         | Add Customer         | ID: 301, Name: John Doe, Address: 123 Main St                                  | Customer added successfully!                          |
+| 10        | Display Customers    | N/A                                                                            | List of customers displayed                           |
+| 11        | Modify Customer      | Customer ID: 301, New Name: Jane Smith, New Address: 456 Oak Ave               | Customer details modified successfully!               |
+| 12        | Delete Customer      | Customer ID: 301                                                               | Customer found and deleted.                           |
+| 13        | Invalid Choice       | Choice: 13                                                                     | Invalid choice. Please try again.                     |
+| 14        | Exit Program         | Choice: 0                                                                      | Exiting program.                                      |
+
